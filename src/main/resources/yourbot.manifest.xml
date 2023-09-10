@@ -1,0 +1,22 @@
+<manifest>
+    <main-class>com.YOURNAME.scripts.YourBot</main-class>
+    <name>YourBot</name>
+    <tag-line>Your first bot</tag-line>
+    <description>A new bot.</description>
+    <version>0.0.1</version>
+    <hidden>true</hidden>
+    <access>private</access>
+    <price>0.00</price>
+
+    <compatibility>
+        <game>OSRS</game>
+    </compatibility>
+
+    <categories>
+        <category>OTHER</category>
+    </categories>
+
+    <tags>
+    </tags>
+
+</manifest>
